@@ -35,7 +35,18 @@ and be sure not to repeat any topics covered in previous presentations.
 
 ## Presentation 2
 ### Fishing
+1) What is a Bayesian Network? (15 minutes)
+  a) Bayes theorem
+  b) Calculating joint probabilities
+  c) Independence/dependence
+2) Why we thought a Bayesian Network would be good for us (5 minutes)
+  a) Overview of how it works in game, collision model and fish movement
+3) Different fish types, stats, and behaviors (5 minutes)
+4) Calculating probability for uncertainties (15 minutes)
+  a) Weather
+  b) Time of day
+  c) Items and how they affect probability
+    i)Shop items, Lures, lines, ect.
+  d) Collision items
+5) Fish spawning (5)
 
-- Topic 1 ... (XX minutes):
-  - ...
-- ...
